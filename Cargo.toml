@@ -1,0 +1,13 @@
+[package]
+name = "spam_candle_ai"
+version = "0.1.0"
+edition = "2021"
+description = "Beginner-friendly Spam vs Ham classifier using Candle ML"
+
+[dependencies]
+# Candle ML framework - Hugging Face's Rust ML library
+candle-core = "0.9"    # Core tensor operations
+candle-nn = "0.9"      # Neural network layers and modules
+
+# Error handling
+anyhow = "1.0"         # Ergonomic error handling with context

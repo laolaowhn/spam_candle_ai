@@ -1,0 +1,18 @@
+# Build artifacts
+/target/
+
+# Cargo lock file (optional for binaries, but we include it)
+# Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Saved model weights (generated during training)
+*.safetensors
