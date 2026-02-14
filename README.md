@@ -9,6 +9,7 @@ A beginner-friendly machine learning project in **pure Rust** using the [Candle]
 > No Python. No external ML libraries. Just Rust. 🦀
 
 ## 🎯 What It Does
+https://mp.weixin.qq.com/s/6g-YJ-C2WsPIKJ8wK9G4tw?version=5.0.6.99829&platform=mac&from=industrynews#rd
 
 Classifies text messages as **Spam** or **Ham** (legitimate) using a neural network.
 
